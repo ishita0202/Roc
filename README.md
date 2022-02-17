@@ -1,2 +1,2 @@
 # ROC 
-Discord bot which talks with you
+Discord bot using dialogflow,discord.js and node.js 
